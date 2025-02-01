@@ -1,8 +1,9 @@
-# React + Vite
+#Proyecto en React con Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un ejercicio en donde se simula un seguimiento a perfiles mediante web , en donde dice seguir , por lo tanto se selecciona con el 
+hover y sale seguido.
 
-Currently, two official plugins are available:
+para acceder a este proyecto se necesita tener previamente instalado el node
+y para iniciarlo se tiene que poner el comando 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm run dev run
